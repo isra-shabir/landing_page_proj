@@ -72,6 +72,9 @@ carousel
 .bg-darkest-gray {
   background-color: #222222;
 }
+.bg-black{
+  background: #000000;
+}
 .btn-primary {
   color: white;
   background-color: #fed136;
